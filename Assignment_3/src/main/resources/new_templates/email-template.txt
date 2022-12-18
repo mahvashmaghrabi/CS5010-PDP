@@ -1,0 +1,14 @@
+Subject Line:  New Staff
+
+Dear [[first_name]] [[last_name]]
+
+Good morning. There are some exciting changes coming to our company that I wish to alert you to.
+
+Due to ABC Inc.’s recent acquisition of [[company_name]], our executive management has decided that some restructuring of our department is in order so that our transition through this merger can be as seamless as possible.
+
+This is, in general, very good news for all of us, for we will be onboarding ten new sales representatives – which will both relieve our current understaffing situation and prepare us for the heightened sales operations this merger is anticipated to trigger.
+
+I am scheduling a staff meeting for tomorrow from 12 pm to 1 pm where I will outline the steps of this important transition; lunch will be provided. Please feel free to reach out to me at any time during the next few weeks with any questions or concerns.
+
+Best regards.
+Company Manager

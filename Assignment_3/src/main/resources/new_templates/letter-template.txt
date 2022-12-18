@@ -1,0 +1,18 @@
+[[company_name]]
+[[address]], [[city]],
+[[county]], [[state]], [[zip]]
+[[email]]
+[[first_name]] [[last_name]]
+
+Subject: New policy/policy change notification
+
+Dear [[first_name]] [[last_name]],
+
+We wish to announce a new policy, effective from the second week of March. The changes are to be discussed in the meeting next week.
+We hope that all the changes shall be adhered to by every employee, and everyone will help make the new system successful. We apologize for any inconvenience.
+
+Thank you for your continued support.
+
+Sincerely,
+
+Manager

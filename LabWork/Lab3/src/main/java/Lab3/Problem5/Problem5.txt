@@ -1,0 +1,9 @@
+TESTING STRATEGY
+
+1)Testing first name and last name
+2)Testing age is an integer in the range [0,128]
+3)Testing Wealth is a postive real number
+4)Testing Stamina is a real number [0,100]
+5)Testing farmer's land in acres
+6)Testing Engineer's course and duration of study
+7)Testing soldier's retirement age

@@ -1,0 +1,7 @@
+{
+  "grammarDesc": "A grammar that generates greeting. ",
+  "noun":
+  [
+    "human","alien","tourist"
+  ]
+}

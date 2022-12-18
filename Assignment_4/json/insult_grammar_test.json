@@ -1,0 +1,11 @@
+{
+  "grammarTitle": "Insult Generator",
+  "grammarDesc": "A grammar that generates insult. ",
+  "start": [
+    "You <name> ."
+  ],
+  "name":
+  [
+    "    ,bad excuse for poo gh   !"
+  ]
+}

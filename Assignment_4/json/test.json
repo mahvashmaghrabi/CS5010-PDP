@@ -1,0 +1,20 @@
+{
+  "grammarTitle": "Greeting Generator",
+  "grammarDesc": "A grammar that generates greeting. ",
+  "start": [
+    "Hello <noun> , <greet> to our <adj> <place>."
+  ],
+  "noun":
+  [
+    "human","alien","tourist"
+  ],
+  "greet": [
+    "welcome","come","go"
+  ],
+  "place": [
+    "home","country","city"
+  ],
+  "adj": [
+    "sacred","beautiful"
+  ]
+}
